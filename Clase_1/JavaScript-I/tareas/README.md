@@ -13,6 +13,6 @@
 
 2. Instalar Node y NPM. NPM se incluye con Node. https://nodejs.org/en/download/
 
-3. Desde la carpeta `Evuca JS-I` en la carpeta donde clonaste el repo: ingresa el comando `npm install`, una vez que termine ingresa el comando `npm test JSI.test.js` para correr los tests automatizados. Al principio, todos los tests estarán fallados/rotos. Encontrarás las funciones para hacer pasar los tests en el archivo `tareas.js`.
+3. Desde la carpeta `Evuca-JS-I/Clase_1/Javascript_I` en la carpeta donde clonaste el repo: ingresa el comando `npm install`, una vez que termine ingresa el comando `npm test JSI.test.js` para correr los tests automatizados. Al principio, todos los tests estarán fallados/rotos. Encontrarás las funciones para hacer pasar los tests en el archivo `tareas.js`.
 
 >> Deberás ir escribiendo código en `tareas.js` y corriendo de nuevo los tests hasta que TODOS hayan pasado.
